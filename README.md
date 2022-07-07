@@ -1,5 +1,16 @@
 # Minesweeper-Using-SFML
-This is a minesweeper game created with C++ using SFML 
+This is a game created with C++ using SFML library. In this game you have to reaveal all the tiles that are not a bomb. You die if you reveal a tile with bomb.
+
+# Features
+- Uses mouse input as controls
+- Switch from MainMenu to GamePlay view using StateMachine
+- Customizable Tile size
+- Customizable code architecture
+- Dynamic grid genertaion
+- Random bomb generations in grid
+- Ability to take ScreenShots
+- Game Reset Option
+- Win / lose condition implemented
 
 # SCREENSHOTS
 
